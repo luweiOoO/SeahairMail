@@ -15,6 +15,9 @@
         <module>seahair-order</module>
         <module>seahair-ware</module>
         <module>seahairmail-product</module>
+        <module>renren-fast</module>
+        <module>renren-generator</module>
+        <module>seahairmail-common</module>
     </modules>
 
 </project>
